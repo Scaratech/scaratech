@@ -1,6 +1,6 @@
 # Hi
 I'm Entrpix :D\
-I'm a 🏳️‍⚧️Transfem (She/Her), Fullstack Web-Developer!
+I'm a 13 yo 🏳️‍⚧️Transfem (She/Her), Fullstack Web-Developer!
 
 ## Projects
 Here are some of the things I've worked on:
