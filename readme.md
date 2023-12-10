@@ -1,6 +1,6 @@
-# Hi :D
-Hi, I'm Entrpix!\
-I'm a 🏳️‍⚧️Transfem (She/Her), Fullstack Web-Developer 💻!
+# Hi
+I'm Entrpix :D\
+I'm a 🏳️‍⚧️Transfem (She/Her), Fullstack Web-Developer!
 
 ## Projects
 Here are some of the things I've worked on:
