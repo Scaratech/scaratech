@@ -1,6 +1,6 @@
 # Hi
 I'm Entrpix :D\
-I'm a 13 yo 🏳️‍⚧️Transfem (She/Her), Fullstack Web-Developer!
+I'm a 13 yo 🏳️‍⚧️Transfem (She/Her), Backend Developer!
 
 ## Projects
 Here are some of the things I've worked on:
@@ -9,4 +9,4 @@ Here are some of the things I've worked on:
 
 ## Socials
 - [Website](https://entrpix.me)
-- [Youtube](https://youtube.com/@entrpix)
+- [Youtube](https://youtube.com/@scarat3k)
