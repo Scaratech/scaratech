@@ -4,9 +4,10 @@ I'm a 13 yo 🏳️‍⚧️Transfem (She/Her), Backend Developer!
 
 ## Projects
 Here are some of the things I've worked on:
-- [Kite Extension](https://github.com/entrpix/kite-filter-client)
-- [Kite Server](https://github.com/entrpix/kite-filter-server)
-
+- [Kite Extension](https://github.com/kite-filter/kite-extension)
+- [Vizum](https://github.com/entrpix/vizum)
+- [Devec](https://github.com/entrpix/devec)
 ## Socials
 - [Website](https://entrpix.me)
+- [Blog Posts](https://entrpix.me/blog.html)
 - [Youtube](https://youtube.com/@scarat3k)
