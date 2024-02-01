@@ -1,9 +1,17 @@
-# Abnormality
-Well witness mе now, come, caress me now\
-My "avеrage" clothes I'll wear no more!\
-Break my cocoon, butterfly born anew\
-I'll show everything In all its glory for you\
-This stage, bitter cold, performs not a soul\
-So I'll step to the beat with a 1, 2, 3\
-I'm not a puppet at all, just dancing along!\
-I am losing my mind!
+# Hai :3 
+I'm Violet/Entrpix and I'm a Backend web Developer as well as a CLI Developer :D
+
+## Developer for
+- [Mercury Workshop](https://github.com/mercuryworkshop)
+- [Nebula Services](https://github.com/nebulaservices)
+
+## Projects
+- [Vizum](https://github.com/entrpix/vizum)
+- [Kite Filter](https://github.com/kite-filter)
+- [Cekzu](https://github.com/pink-pen/cekzu)
+- [Nora](https://github.com/entrpix/nora)
+
+## Socials
+- [Youtube](https://youtube.com/@entrpix)
+- [My Website](https://entrpix.me)
+- Discord - @ckmf
