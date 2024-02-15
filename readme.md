@@ -1,17 +1,16 @@
 # Hai :3 
-I'm Violet/Entrpix and I'm a Backend web Developer as well as a CLI Developer :D
+I'm Violet I'm a Transfem Web & CLI Developer :3
 
 ## Developer for
 - [Mercury Workshop](https://github.com/mercuryworkshop)
 - [Nebula Services](https://github.com/nebulaservices)
 
 ## Projects
-- [Vizum](https://github.com/entrpix/vizum)
 - [Kite Filter](https://github.com/kite-filter)
-- [Cekzu](https://github.com/pink-pen/cekzu)
 - [Nora](https://github.com/entrpix/nora)
 
 ## Socials
 - [Youtube](https://youtube.com/@entrpix)
+- [Twitter](https://twitter.com/scaratek)
 - [My Website](https://entrpix.me)
-- Discord - @ckmf
+- [Discord](https://discord.com/users/1168045766770696193)
