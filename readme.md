@@ -7,6 +7,7 @@ I'm Violet I'm a Transfem Web & CLI Developer :3
 
 ## Projects
 - [Kite Filter](https://github.com/kite-filter)
+- [Termite](https://github.com/entrpix/termite)
 - [Nora](https://github.com/entrpix/nora)
 
 ## Socials
