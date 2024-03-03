@@ -1,5 +1,6 @@
 # Hai :3 
-I'm Violet I'm a Transfem Web & CLI Developer :3
+I'm Lily I'm a 14-yo Transfem Web-Developer\
+My thoughts will follow you into your dreams.
 
 ## Developer for
 - [Mercury Workshop](https://github.com/mercuryworkshop)
