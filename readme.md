@@ -2,7 +2,7 @@
 Hai I'm Lily and I'm a 14-yo Transfem Web-Developer\
 My thoughts will follow you into your dreams.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=entrpix)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=entrpix&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Developer for
 - [Mercury Workshop](https://github.com/mercuryworkshop)
