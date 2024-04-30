@@ -1,7 +1,7 @@
 # Hai :3 
-Hai I'm Lily and I'm a 14 year-old 🏳️‍⚧️Transfem Web-Developer that mainly works with Typescript
+Hai I'm Lily and I'm a 14 year-old Transfem Web-Developer that mainly works with Typescript
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=entrpix&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=entrpix&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Developer for
 - [Mercury Workshop](https://github.com/mercuryworkshop)
