@@ -1,7 +1,8 @@
 # Hai :3 
 Hai I'm Lily and I'm a 14 year-old Transfem Web-Developer that mainly works with Typescript
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=entrpix&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=foxmoss&theme=dracula&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foxmoss&theme=dracula&show_icons=true&hide_border=true&layout=compact) |
+| --- | --- |
 
 ## Developer for
 - [Mercury Workshop](https://github.com/mercuryworkshop)
