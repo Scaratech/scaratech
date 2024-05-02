@@ -1,7 +1,7 @@
 # Hai :3 
 Hai I'm Lily and I'm a 14 year-old Transfem Web-Developer that mainly works with Typescript
 
-![](https://github-readme-stats.vercel.app/api?username=foxmoss&theme=dracula&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foxmoss&theme=dracula&show_icons=true&hide_border=true&layout=compact) |
+![](https://github-readme-stats.vercel.app/api?username=entrpix&theme=dracula&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=entrpix&theme=dracula&show_icons=true&hide_border=true&layout=compact) |
 | --- | --- |
 
 ## Developer for
