@@ -13,3 +13,4 @@ Hai I'm Lily and I'm a 14 year-old Transfem Web-Developer that mainly works with
 - [Twitter](https://twitter.com/scaratek)
 - [Discord](https://discord.com/users/1168045766770696193)
 - [My Website](https://entrpix.me)
+- [Email](mailto:lily@entrpix.me)
