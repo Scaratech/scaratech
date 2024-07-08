@@ -10,7 +10,7 @@ Hai I'm Lily! I'm a Web-Devloper intrested in Chromebooks and circumventing inte
 - [FWSmasher](https://github.com/fwsmasher)
 
 ## Contributed to
-- [Holy Unblocker LTS](https://github.com/quiteafancyemerald)
+- [Holy Unblocker LTS](https://github.com/quiteafancyemerald/holy-unblocker)
 - [Pollen](https://github.com/mercuryworkshop/pollen)
 - (I mostly work on my own projects :P)
 
