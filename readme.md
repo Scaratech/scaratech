@@ -3,9 +3,9 @@ Hi, I'm Scaratek!
 - Age: 14
 - Timezone: EST
 - Pronouns: `she/they`
-- Interests: `web-development, webproxys, chromeos, linux, geometry dash, vocaloid, hololive`
+- Interests: `web-development, webproxys, chromeos, linux, hosting, geometry dash, vocaloid, hololive`
 - Programming Languages: `Python, Javascript/Typescript, Bash, C, Java`
-- Skills: `Linux, Bash, Astro, ExpressJS, NodeJS`
+- Skills: `Linux, Astro, ExpressJS, NodeJS`
 
 ## Socials
 - Twitter - [@scaratek](https://x.com/scaratek)
