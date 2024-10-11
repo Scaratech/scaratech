@@ -1,8 +1,8 @@
 # Hi
 Hi, I'm Scaratek!
-- Age: 14
+- Age: 14 (Freshman)
 - Timezone: EST
-- Pronouns: `she/they`
+- Pronouns: she/they
 - Interests: `web-development, webproxys, chromeos, linux, hosting, geometry dash, vocaloid, hololive`
 - Programming Languages: `Python, Javascript/Typescript, Bash, C, Java`
 - Skills: `Linux, Astro, ExpressJS, NodeJS`
@@ -10,11 +10,18 @@ Hi, I'm Scaratek!
 ## Socials
 - Twitter - [@scaratek](https://x.com/scaratek)
 - Discord - @scaratech
+- Email - hazel@scara.tech
 
-## Projects/Contributions
+## Projects
+### Finished
+- [mitm-extension](https://github.com/Entrpix/mitm-extension) - Log all requests sent to and from your browsing using a chrome extension
+### In Development
 - [Penrose](https://github.com/entrpix/penrose) - [WiP] AiO RMA Shim and Recovery Image modification tool
-- [Pollen](https://github.com/mercuryworkshop/pollen) - ChromeOS User Policy editor (Contributions: README)
-- [Radius](https://github.com/radiusproxy/radius) - Yet-Another Webproxy Frontend (Contributions: [WiP] Astro Rewrite)
+### Contributed To
+- [Pollen](https://github.com/mercuryworkshop/pollen) - ChromeOS User Policy editor
+  - Contributions: README
+- [Radius](https://github.com/radiusproxy/radius) - Yet-Another Webproxy Frontend
+  - Contributions: [WiP] Astro Rewrite
 
 ## Other
 - Owner of [Kuromuiroha](https://kuromu.scara.tech)
