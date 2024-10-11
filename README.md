@@ -1,7 +1,9 @@
 # Hi
 Hi, I'm Scaratek!
 - Age: 14 (Freshman)
+- Birthday: 03/06/2010
 - Timezone: EST
+- Location: Georgia, United States
 - Pronouns: she/they
 - Interests: `web-development, webproxys, chromeos, linux, hosting, geometry dash, vocaloid, hololive`
 - Programming Languages: `Python, Javascript/Typescript, Bash, C, Java`
@@ -22,6 +24,8 @@ Hi, I'm Scaratek!
   - Contributions: README
 - [Radius](https://github.com/radiusproxy/radius) - Yet-Another Webproxy Frontend
   - Contributions: [WiP] Astro Rewrite
+
+Most of my projects are unfinished and not worth showcasing, however I have many different project ideas I hope to create one day
 
 ## Other
 - Owner of [Kuromuiroha](https://kuromu.scara.tech)
