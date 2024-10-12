@@ -17,6 +17,7 @@ Hi, I'm Scaratek!
 ## Projects
 ### Finished
 - [mitm-extension](https://github.com/Entrpix/mitm-extension) - Log all requests sent to and from your browsing using a chrome extension
+- [Koaku](https://github.com/entrpix/koaku) - A CSS parser that works by CSS <-> JSON
 ### In Development
 - [Penrose](https://github.com/entrpix/penrose) - [WiP] AiO RMA Shim and Recovery Image modification tool
 ### Contributed To
@@ -24,6 +25,8 @@ Hi, I'm Scaratek!
   - Contributions: README
 - [Radius](https://github.com/radiusproxy/radius) - Yet-Another Webproxy Frontend
   - Contributions: [WiP] Astro Rewrite
+- [Rigtools](https://github.com/fwsmasher/rigtools) - Devtools XSS
+  - Contributions: The UI
 
 Most of my projects are unfinished and not worth showcasing, however I have many different project ideas I hope to create one day
 
