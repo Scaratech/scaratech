@@ -5,9 +5,9 @@ Hi, I'm Scaratek!
 - Timezone: EST
 - Location: Georgia, United States
 - Pronouns: she/they
-- Interests: `web-development, webproxys, chromeos, linux, hosting, geometry dash, vocaloid, hololive`
-- Programming Languages: `Python, Javascript/Typescript, Bash, C, Java`
-- Skills: `Linux, Astro, ExpressJS, NodeJS`
+- Interests: Web-Development, Webproxys, ChromeOS, Linux, Hosting, Geometry Dash, Vocaloid, Hololive
+- Programming Languages: Python, Javascript/Typescript, Bash, C, Java
+- Skills: Linux, Astro, ExpressJS, NodeJS
 
 ## Socials
 - Twitter - [@scaratek](https://x.com/scaratek)
@@ -17,9 +17,9 @@ Hi, I'm Scaratek!
 ## Projects
 ### Finished
 - [mitm-extension](https://github.com/Entrpix/mitm-extension) - Log all requests sent to and from your browsing using a chrome extension
-- [Koaku](https://github.com/entrpix/koaku) - A CSS parser that works by CSS <-> JSON
 ### In Development
 - [Penrose](https://github.com/entrpix/penrose) - [WiP] AiO RMA Shim and Recovery Image modification tool
+- [Koaku](https://github.com/entrpix/koaku) - A CSS parser that works by doing CSS <-> JSON
 ### Contributed To
 - [Pollen](https://github.com/mercuryworkshop/pollen) - ChromeOS User Policy editor
   - Contributions: README
