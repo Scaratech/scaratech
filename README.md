@@ -18,8 +18,7 @@ Hi, I'm Scaratek!
 ### Finished
 - [mitm-extension](https://github.com/Entrpix/mitm-extension) - Log all requests sent to and from your browsing using a chrome extension
 ### In Development
-- [Penrose](https://github.com/entrpix/penrose) - [WiP] AiO RMA Shim and Recovery Image modification tool
-- [Koaku](https://github.com/entrpix/koaku) - A CSS parser that works by doing CSS <-> JSON
+- [Koaku](https://github.com/entrpix/koaku) - A CSS parser that works by doing converting CSS to JSON and vise versa
 ### Contributed To
 - [Pollen](https://github.com/mercuryworkshop/pollen) - ChromeOS User Policy editor
   - Contributions: README
