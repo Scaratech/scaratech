@@ -34,5 +34,5 @@ Most of my projects are unfinished and not worth showcasing, however I have many
 - Developer for [Mercury Workshop](https://mercuryworks.shop), [Nebula Services](https://github.com/nebulaservices), [FWSmasher](https://github.com/FWSmasher), and [Antilink](https://github.com/anti-link)
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=entrpix&theme=dracula&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=entrpix&theme=dracula&show_icons=true&hide_border=true&layout=compact) |
+![](https://github-readme-stats.vercel.app/api?username=scaratech&theme=dracula&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scaratech&theme=dracula&show_icons=true&hide_border=true&layout=compact) |
 | --- | --- |
