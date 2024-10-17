@@ -31,8 +31,6 @@ Hi, I'm Scaratek!
 - [Termite](https://github.com/scaratech/termite) - Terminal-like Frontend Webproxy. Plan to be re-written sometime in the future:tm:
 - [FUKK-8](https://github.com/scaratech/fukk-8) - Custom terinal JS engine
 
-Most of my projects are unfinished and not worth showcasing, however I have many different project ideas I hope to create one day
-
 ## Other
 - Owner of [Kuromuiroha](https://kuromu.scara.tech)
 - Developer for [Mercury Workshop](https://mercuryworks.shop), [Nebula Services](https://github.com/nebulaservices), [FWSmasher](https://github.com/FWSmasher), and [Antilink](https://github.com/anti-link)
