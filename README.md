@@ -16,9 +16,9 @@ Hi, I'm Scaratek!
 
 ## Projects
 ### Finished
-- [mitm-extension](https://github.com/Entrpix/mitm-extension) - Log all requests sent to and from your browsing using a chrome extension
+- [mitm-extension](https://github.com/scaratech/mitm-extension) - Log all requests sent to and from your browsing using a chrome extension
 ### In Development
-- [Koaku](https://github.com/entrpix/koaku) - A CSS parser that works by doing converting CSS to JSON and vise versa
+- [Koaku](https://github.com/scaratech/koaku) - A CSS parser that works by doing converting CSS to JSON and vise versa
 ### Contributed To
 - [Pollen](https://github.com/mercuryworkshop/pollen) - ChromeOS User Policy editor
   - Contributions: README
@@ -26,6 +26,10 @@ Hi, I'm Scaratek!
   - Contributions: [WiP] Astro Rewrite
 - [Rigtools](https://github.com/fwsmasher/rigtools) - Devtools XSS
   - Contributions: The UI
+### Archived
+- [Native](https://github.com/scaratech/native) - Mostly Client-Side SW-less Webproxy. Plan to be re-written to be 100% Client-Side and SW-less
+- [Termite](https://github.com/scaratech/termite) - Terminal-like Frontend Webproxy. Plan to be re-written sometime in the future:tm:
+- [FUKK-8](https://github.com/scaratech/fukk-8) - Custom terinal JS engine
 
 Most of my projects are unfinished and not worth showcasing, however I have many different project ideas I hope to create one day
 
