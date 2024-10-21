@@ -29,7 +29,6 @@ Hi, I'm Scaratek!
 ### Archived
 - [Native](https://github.com/scaratech/native) - Mostly Client-Side SW-less Webproxy. Plan to be re-written to be 100% Client-Side and SW-less
 - [Termite](https://github.com/scaratech/termite) - Terminal-like Frontend Webproxy. Plan to be re-written sometime in the future:tm:
-- [FUKK-8](https://github.com/scaratech/fukk-8) - Custom terinal JS engine
 
 ## Other
 - Owner of [Kuromuiroha](https://kuromu.scara.tech)
