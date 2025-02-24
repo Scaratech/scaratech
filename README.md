@@ -1,7 +1,5 @@
 # Hi
-Hi, I'm Scaratek!
-- Website: https://scara.tech
-- E-Mail: hazelscaratek@gmail.com
+TODO
 
 
 ## Stats
