@@ -21,7 +21,7 @@ I'm a Monster™-powered backend developer, you probably know me as the co-owner
 - Webproxies
 - Chromebooks
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=scaratech&theme=dracula&show_icons=true&hide_border=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scaratech&theme=dracula&show_icons=true&hide_border=true&layout=compact) |
+![](https://github-readme-stats.vercel.app/api?username=scaratech&theme=radical&show_icons=true&hide_border=false&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scaratech&theme=radical&show_icons=true&hide_border=false&layout=compact) |
 | --- | --- |
 
 ## Socials
