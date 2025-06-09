@@ -9,9 +9,10 @@ I'm a Monster™-powered backend developer, you probably know me as the co-owner
 |-----	|-------------- |----------	|
 | 15  	| EST       	| she/they 	| 
 ### Languages:
-- Typescript/Javascript
-- HTML/CSS
+- Typescript & Javascript
+- HTML & CSS
 - Bash
+- Python 3
 ### Interests
 - Linux (Arch btw)
 - Vocaloid (oo ee oo)
