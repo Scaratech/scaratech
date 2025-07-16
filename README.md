@@ -25,8 +25,10 @@ I'm a Monster™-powered backend developer, you probably know me as the co-owner
 | --- | --- |
 
 ## Socials
+- Discord: `scaratek.dev`
+- Email: `hazel@scaratek.dev`
+<br>
 <a href="https://x.com/scaratek"><img src="twitter.png" alt="pfp" width="40" style="vertical-align: middle; margin-right: 10px; border-radius: 10%;"></a>
-<a href="https://discord.gg/unblocker"><img src="discord.png" alt="pfp" width="40" style="vertical-align: middle; margin-right: 10px; border-radius: 10%;"></a>
 <a href="https://www.tiktok.com/@scaratech"><img src="tiktok.png" alt="pfp" width="40" style="vertical-align: middle; margin-right: 10px; border-radius: 10%;"></a>
 <a href="https://open.spotify.com/user/31yv2fbldb7kixyzot6aviobbe6ah"><img src="spotify.png" alt="pfp" width="40" style="vertical-align: middle; margin-right: 10px; border-radius: 10%;"></a>
 <a href="https://www.reddit.com/user/No-Abbreviations6395/"><img src="reddit.png" alt="pfp" width="40" style="vertical-align: middle; margin-right: 10px; border-radius: 10%;"></a>
