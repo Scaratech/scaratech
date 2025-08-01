@@ -16,7 +16,7 @@ I'm a Monster™-powered backend developer and sysadmin, you probably know me as
 ### Interests
 - Linux
 - Vocaloid
-- Rythm Games
+- Rhythm Games
 - Programming (duh)
 - Sysadmin Work
 - Monster Energy
