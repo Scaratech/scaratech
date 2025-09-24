@@ -10,7 +10,7 @@ Self-proclaimed "programmer" with a weird obsession for Hatsune Miku
 - Python 3 (I haven't used it in years)
 - Java (Unfortunately)
 - Bash
-### Interests
+### Interests:
 - Webproxy Development
 - WebOSes
 - Linux
