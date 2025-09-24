@@ -5,8 +5,8 @@
 Self-proclaimed "programmer" with a weird obsession for Hatsune Miku
 
 ### Languages:
-- Typescript & Javascript)
-- HTML & CSS (These aren't programming languages
+- Typescript & Javascript
+- HTML & CSS (These aren't programming languages)
 - Python 3 (I haven't used it in years)
 - Java (Unfortunately)
 - Bash
