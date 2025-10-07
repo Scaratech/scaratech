@@ -22,5 +22,5 @@ Self-proclaimed "programmer" with a weird obsession for Hatsune Miku
 | --- | --- |
 
 ## Contact
-- Discord: `scaratek.dev`
+- Discord: `scaratech`
 
