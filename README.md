@@ -22,11 +22,13 @@ My Discord username is: `scaratek.dev`
 
 ## Projects
 ### Actively Maintained
-- [Claudia](https://github.com/Scaratech/Claudia) - Discord's Clyde brought back from the dead
-- [Meowbot](https://github.com/Scaratech/Meowbot) - Rewrite of [Selfcord](https://github.com/Scaratech/Selfcord) as a user-installable slash application
 - [XenOS](https://github.com/Scaratech/XenOS) - A highly customizable "WebOS" with a ton of features and a sleek UI
 - [Mittens](https://github.com/Scaratech/Mittens) - Middleware for your [Wisp](https://github.com/mercuryworkshop/wisp-protocol) server
 - [My Website](https://github.com/Scaratech/website)
+- [Jinko](https://github.com/Scaratech/Jinko) - An AI girlfriend that lives in your Discord DMs
+- [Claudia](https://github.com/Scaratech/Claudia) - Discord's Clyde brought back from the dead
+- [Meowbot](https://github.com/Scaratech/Meowbot) - Rewrite of [Selfcord](https://github.com/Scaratech/Selfcord) as a user-installable slash application
+
 
 ### Finished Products
 - [Breaking-Bark](https://github.com/Scaratech/Breaking-Bark) - Exposal of [Bark's](https://bark.us) horrible security
