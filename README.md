@@ -37,7 +37,7 @@ My Discord username is: `scaratek.dev`
 - [Superintendent](https://github.com/Scaratech/superintendent) - Let support members give roles in a managed way
 - [LastFM-Bot](https://github.com/Scaratech/lastfm-bot) - A utility for spoofing [last.fm](https://last.fm) scrobbles
 - [crosdl](https://github.com/Scaratech/crosdl) - A CLI for downloading ChromeOS related images
-- [MitM-Extenion](https://github.com/Scaratech/mitm-extension) - Log all requests sent from your browser to an external server via a Chrome extension
+- [MitM-Extension](https://github.com/Scaratech/mitm-extension) - Log all requests sent from your browser to an external server via a Chrome extension
 - [Mikuproxy](https://github.com/Scaratech/MikuProxy) - The best webproxy ever
 - [cros-ddl](https://github.com/Scaratech/cros-ddl) - An easy-to-use backend for your ChromeOS shim mirror
 
