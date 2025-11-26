@@ -32,14 +32,16 @@ My Discord username is: `scaratek.dev`
 
 ### Finished Products
 - [Breaking-Bark](https://github.com/Scaratech/Breaking-Bark) - Exposal of [Bark's](https://bark.us) horrible security
-- [Vapor](https://github.com/Scaratech/Vapor) - A selfhostable unblocked games website that allows you to play games fully offline with a great UI
-- [Trol](https://github.com/Scaratech/trol) - A PoC utility for showing [Securly](https://securly.com) why authentication as an email isn't a good idea
-- [Superintendent](https://github.com/Scaratech/superintendent) - Let support members give roles in a managed way
-- [LastFM-Bot](https://github.com/Scaratech/lastfm-bot) - A utility for spoofing [last.fm](https://last.fm) scrobbles
 - [crosdl](https://github.com/Scaratech/crosdl) - A CLI for downloading ChromeOS related images
-- [MitM-Extension](https://github.com/Scaratech/mitm-extension) - Log all requests sent from your browser to an external server via a Chrome extension
-- [Mikuproxy](https://github.com/Scaratech/MikuProxy) - The best webproxy ever
+- [Vapor](https://github.com/Scaratech/Vapor) - A selfhostable unblocked games website that allows you to play games fully offline with a great UI
+- [cheerio-mt](https://github.com/scaratech/cheerio-mt) - A multi-threaded Cheerio wrapper
+- [LastFM-Bot](https://github.com/Scaratech/lastfm-bot) - A utility for spoofing [last.fm](https://last.fm) scrobbles
+- [Superintendent](https://github.com/Scaratech/superintendent) - Let support members give roles in a managed way
+- [Mikuproxy](https://github.com/Scaratech/MikuProxy) - The best webproxy ever\
 - [cros-ddl](https://github.com/Scaratech/cros-ddl) - An easy-to-use backend for your ChromeOS shim mirror
+- [Trol](https://github.com/Scaratech/trol) - A PoC utility for showing [Securly](https://securly.com) why authentication as an email isn't a good idea
+- [MitM-Extension](https://github.com/Scaratech/mitm-extension) - Log all requests sent from your browser to an external server via a Chrome extension
+
 
 ### Archived/Legacy
 - [Selfcord](https://github.com/Scaratech/Selfcord) - A utility-focused Discord selfbot
