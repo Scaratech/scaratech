@@ -1,9 +1,6 @@
 # Hi, I'm Scaratek!
 Self-proclaimed "programmer" with a weird obsession for Hatsune Miku\
 My Discord username is: `scaratek.dev`
-######
-![](https://github-readme-stats.vercel.app/api?username=scaratech&theme=radical&show_icons=true&hide_border=false&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scaratech&theme=radical&show_icons=true&hide_border=false&layout=compact) |
-| --- | --- |
 
 ## Languages
 - Typescript & Javascript
