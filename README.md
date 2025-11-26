@@ -26,9 +26,7 @@ My Discord username is: `scaratek.dev`
 - [Mittens](https://github.com/Scaratech/Mittens) - Middleware for your [Wisp](https://github.com/mercuryworkshop/wisp-protocol) server
 - [My Website](https://github.com/Scaratech/website)
 - [Jinko](https://github.com/Scaratech/Jinko) - An AI girlfriend that lives in your Discord DMs
-- [Claudia](https://github.com/Scaratech/Claudia) - Discord's Clyde brought back from the dead
 - [Meowbot](https://github.com/Scaratech/Meowbot) - Rewrite of [Selfcord](https://github.com/Scaratech/Selfcord) as a user-installable slash application
-
 
 ### Finished Products
 - [Breaking-Bark](https://github.com/Scaratech/Breaking-Bark) - Exposal of [Bark's](https://bark.us) horrible security
@@ -37,7 +35,8 @@ My Discord username is: `scaratek.dev`
 - [cheerio-mt](https://github.com/scaratech/cheerio-mt) - A multi-threaded Cheerio wrapper
 - [LastFM-Bot](https://github.com/Scaratech/lastfm-bot) - A utility for spoofing [last.fm](https://last.fm) scrobbles
 - [Superintendent](https://github.com/Scaratech/superintendent) - Let support members give roles in a managed way
-- [Mikuproxy](https://github.com/Scaratech/MikuProxy) - The best webproxy ever\
+- [Claudia](https://github.com/Scaratech/Claudia) - Discord's Clyde brought back from the dead
+- [Mikuproxy](https://github.com/Scaratech/MikuProxy) - The best webproxy ever
 - [cros-ddl](https://github.com/Scaratech/cros-ddl) - An easy-to-use backend for your ChromeOS shim mirror
 - [Trol](https://github.com/Scaratech/trol) - A PoC utility for showing [Securly](https://securly.com) why authentication as an email isn't a good idea
 - [MitM-Extension](https://github.com/Scaratech/mitm-extension) - Log all requests sent from your browser to an external server via a Chrome extension
